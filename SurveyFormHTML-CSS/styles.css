@@ -1,0 +1,84 @@
+/* Element*/
+body{
+    background-image: url(media/bg1.jpg);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #EB0278;
+}
+
+h1, p{
+    margin: auto;
+    text-align: center;
+}
+
+fieldset{
+    border: none;
+    display: flex;
+    flex-direction: column;
+    padding: 10px 0;
+    margin: 0;
+
+}
+
+label, input, select{
+    height: 30px;
+    padding: 0 5px;
+    border-radius: 3px;
+}
+
+input, textarea{
+    border: 1px solid lightgray;
+}
+
+input[type=radio], input[type=checkbox]{
+    vertical-align: middle;
+    margin: -3px 5px 0px 5px;
+}
+
+select{
+    padding: 0 5px;
+    border-radius: 3px;
+    color: gray;
+}
+
+textarea{
+    min-height: 100px;
+    padding: 5px;
+    border-radius: 3px;
+}
+
+
+
+/*Class*/
+.container{
+    max-width: 750px;
+    margin: auto;
+    border-radius: 3px;
+    padding: 50px;
+    background-color: rgba(228, 62, 132, 0.85);
+    color: white;
+}
+
+
+
+/*ID*/
+#title{
+    margin-top: 50px;
+    font-size: 48px;
+}
+#description{
+    margin-bottom: 25px;
+    font-size: 20px;
+}
+#submit{
+    margin: 25px auto;
+    padding: 12px 20px;
+    display: block;
+    background-color: white;
+    border: 0;
+    border-radius: 3px;
+    color: rgb(228,62,132);
+    font-size: 16px;
+    font-weight: bold;
+    height: 40px;
+    margin-bottom: 0;
+}
