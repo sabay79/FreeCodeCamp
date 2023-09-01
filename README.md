@@ -12,6 +12,7 @@ Learn HTML Forms by Building a Registration Form https://github.com/sabay79/Free
 <br>
 Learn the CSS Box Model by Building a Rothko Painting: https://github.com/sabay79/FreeCodeCamp/tree/main/RothkoPaintingHTML-CSS <br>
 Learn CSS Flexbox by Building a Photo Gallery: https://github.com/sabay79/FreeCodeCamp/tree/main/PhotoGalleryHTML-CSS <br>
+Learn Typography by Building a Nutrition Label: https://github.com/sabay79/FreeCodeCamp/tree/main/NutritionLabelHTML-CSS
 
 ### Certification Projects
 Survey Form https://github.com/sabay79/FreeCodeCamp/tree/main/SurveyFormHTML-CSS <br>
